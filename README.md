@@ -1,6 +1,6 @@
 # Echelle Archive
 
-<u>allt20.dec.txt</u> (provided by D. Latham)<br>
+<b>allt20.dec.txt</b> (provided by D. Latham)<br>
 The condordance table listing 33,909 unique targets.  I assigned unique target_id to each object in the list.
 
 <br>
